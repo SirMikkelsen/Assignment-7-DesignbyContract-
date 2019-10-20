@@ -1,0 +1,7 @@
+C:\Users\Gordon\Source\Repos\DesignByContract\DesignByContract\bin\Debug\DesignByContract.exe.config
+C:\Users\Gordon\Source\Repos\DesignByContract\DesignByContract\bin\Debug\DesignByContract.exe
+C:\Users\Gordon\Source\Repos\DesignByContract\DesignByContract\bin\Debug\DesignByContract.pdb
+C:\Users\Gordon\Source\Repos\DesignByContract\DesignByContract\obj\Debug\DesignByContract.csprojAssemblyReference.cache
+C:\Users\Gordon\Source\Repos\DesignByContract\DesignByContract\obj\Debug\DesignByContract.csproj.CoreCompileInputs.cache
+C:\Users\Gordon\Source\Repos\DesignByContract\DesignByContract\obj\Debug\DesignByContract.exe
+C:\Users\Gordon\Source\Repos\DesignByContract\DesignByContract\obj\Debug\DesignByContract.pdb
